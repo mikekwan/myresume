@@ -1,0 +1,76 @@
+
+  
+    body {
+      text-align: left;
+      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background-size: cover;
+      color: white;
+      font-family: geneva;
+    }
+
+    header {
+    	
+      text-align: center;
+      background: url('http://dash.ga.co/assets/jeff-bg.png');
+      background-size: cover;
+      color: white;
+      font-family: helvetica;
+    }
+
+  	#box-one {
+  		background: rgba(0,0,0,0.5);
+  		margin: 50px;
+  		padding: 20px;
+  	}
+
+    img {
+    	margin: 40px 0px 0px 0px;
+    	border: 5px solid white;
+    	border-radius: 20px;
+    }
+
+    p {
+      text-align: left;
+      font-size: 18px;
+      padding: 0px;
+      margin: 0px;
+
+    }
+
+    a {
+      color: white;
+    }
+
+    a:visited {
+    	color: red;
+    }
+
+    a:hover {
+    	color: green;
+    }
+
+    ul {
+    	padding: 10px;
+    	background: rgba(0,0,0,0.5);
+    	list-style-image: none;
+    }
+
+    li {
+    	text-align: left;
+    	display: inline;
+    	margin-left: 20px;
+    	list-style-image: none;
+    }
+
+    h3 {
+    	text-align: left;
+    	display: inline; 
+    	margin-left: 20px;
+    }
+
+    h4 {
+    	text-align: left;
+    	display: inline;
+    	margin-left: 20px; 
+    }
+    
